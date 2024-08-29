@@ -36,7 +36,7 @@ function _string2svgAsync(mmdString) {
       if (err) {
         return console.error(err);
       }
-      childProcess.execFile(binPath, ['-t', 'forest', '-i', tmpFile], function (err, stdout, stderr) {
+      childProcess.execFile(binPath, ['-t', 'default', '-i', tmpFile], function (err, stdout, stderr) {
         if (err || stderr) {
           console.error("err=");
           console.error(err || stderr);

@@ -1,6 +1,6 @@
 # Mermaid plugin for GitBook
 
-Project migrated t：<https://github.com/liushilive/gitbook-plugin-books>
+Project forked from：<https://github.com/liushilive/gitbook-plugin-mermaid-flow>
 
 Plugin for [GitBook](https://github.com/GitbookIO/gitbook) 3 which renders [Mermaid](https://github.com/knsv/mermaid) diagrams and flow charts detected in the book markdown.
 
